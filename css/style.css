@@ -1,0 +1,7 @@
+.header{
+    height: 103px;
+  }  
+.header>img, .header{
+    height: 80px;
+    background-color: #D0DCEA;
+}

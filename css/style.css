@@ -1,7 +1,18 @@
 .header{
-    height: 103px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
   }  
 .header>img, .header{
     height: 80px;
     background-color: #D0DCEA;
 }
+.pg2>img{
+  width: 950px;
+  height: auto;
+}
+.pg2>.sexo{
+  height: 295px;
+} 

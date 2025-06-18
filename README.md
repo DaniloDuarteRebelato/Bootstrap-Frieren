@@ -60,6 +60,7 @@ Link de referencia: [Sombra](https://getbootstrap.com/docs/5.3/utilities/shadows
 
 - Utilizar esse código para botões e depois estilizar:
 ![Imagem exemplo bootstrap](./img/doc/Botão_bootstrap.png)
+
 Link de referencia: [Botão](https://getbootstrap.com/docs/5.3/components/button-group/#button-toolbar)
 
 - **Carrocel:** Esta totalmente finalizado, falta apenas colocar titulos nas imagens e descobrir uma forma de diminuir os tamanhos.

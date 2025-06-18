@@ -56,14 +56,16 @@ A ordem dos tratores não altera o pão duris. Viva Forevis aptent taciti socios
 ### Pagina 1: 
 - **Header:** Quase finalizado, falta apenas colocar elementos para que o usuário possa se redirecionar de forma rapída e eficiente no centro do Header.
 ![imagem do header](./img/doc/Header_certo.png)
+Link de referencia: [Sombra](https://getbootstrap.com/docs/5.3/utilities/shadows/#examples)
 
 - Utilizar esse código para botões e depois estilizar:
 ![Imagem exemplo bootstrap](./img/doc/Botão_bootstrap.png)
+Link de referencia: [Botão](https://getbootstrap.com/docs/5.3/components/button-group/#button-toolbar)
 
 - **Carrocel:** Esta totalmente finalizado, falta apenas colocar titulos nas imagens e descobrir uma forma de diminuir os tamanhos.
 
 ![imagem carrocel](./img/doc/Frieren.png)
-
+Link do carrossel: [Carrossel](https://getbootstrap.com/docs/5.3/components/carousel/#basic-examples)
 
 
 ### Pagina 2: 
@@ -74,6 +76,7 @@ A ordem dos tratores não altera o pão duris. Viva Forevis aptent taciti socios
 - **Textos:** Estilizar textos por estarem em lugares errados ou desalinhados.
 
 ![imagem pagina 2 grupo](./img/doc/Pagina2_Imagem_grupo.png)
+Linke de referencia: [Text-center](https://getbootstrap.com/docs/5.3/migration/#utilities-3)
 
 - Imagem exemplo para ambas anotações:
 
